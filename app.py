@@ -145,9 +145,10 @@ def section(title: str):
 
 # ─── Sidebar ─────────────────────────────────────────────────────────────────
 st.sidebar.markdown(
-    "<h3 style='text-align: center; font-size: 24px;'>☕ Coffee Shop Management System Dashboard</h3>",
+    "<h3 style='text-align: center; font-size: 24px;'>☕  Coffee Shop Management System Dashboard</h3>",
     unsafe_allow_html=True
 )
+st.sidebar.divider()
 
 db_url = st.sidebar.text_input(
     "🔗 Neon Connection String",
