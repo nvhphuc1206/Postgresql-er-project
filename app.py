@@ -144,7 +144,7 @@ def section(title: str):
 
 
 # ─── Sidebar ─────────────────────────────────────────────────────────────────
-st.sidebar.markdown("# ☕ Coffee Dashboard")
+st.sidebar.markdown("# ☕ Coffee Shop Management System Dashboard")
 st.sidebar.divider()
 
 db_url = st.sidebar.text_input(
