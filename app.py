@@ -145,7 +145,7 @@ def section(title: str):
 
 # ─── Sidebar ─────────────────────────────────────────────────────────────────
 st.sidebar.markdown(
-    "<b>☕ Coffee Dashboard</b>",
+    "<h3 style='text-align: center;'>☕ Coffee Shop Management System Dashboard</h3>",
     unsafe_allow_html=True
 )
 st.sidebar.divider()
