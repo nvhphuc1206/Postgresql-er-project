@@ -1,0 +1,15 @@
+[theme]
+# Màu accent: xanh dương — thay thế màu đỏ mặc định của Streamlit
+# Áp dụng cho: slider, date input, selectbox, checkbox, button, tab đang chọn
+primaryColor       = "#3B82F6"
+
+# Nền chính (vùng nội dung)
+backgroundColor    = "#0F1117"
+
+# Nền phụ (sidebar, widget input, expander)
+secondaryBackgroundColor = "#1B2030"
+
+# Màu chữ chính
+textColor          = "#E2E8F0"
+
+font               = "sans serif"
