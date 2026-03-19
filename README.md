@@ -409,6 +409,6 @@ tự invalidate sau 5 phút, phù hợp với data warehouse không cần real-t
 <div align="center">
 
 **MDL018 — Data Organization & Management**
-*Môn học: Khoa học Dữ liệu*
+*Personal Project — End-to-End Data Engineering*
 
 </div>
