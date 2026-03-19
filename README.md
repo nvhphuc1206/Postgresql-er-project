@@ -22,7 +22,7 @@
 
 > **Dark-theme** analytics dashboard với 5 tab báo cáo, kết nối trực tiếp Neon PostgreSQL.
 
-![Dashboard](docs\screenshots\Dashboard.png)
+![Dashboard](docs/screenshots/Dashboard.png)
 
 ### Tab 1 — Doanh thu theo Chi nhánh & Tháng
 
